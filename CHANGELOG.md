@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.13](https://www.github.com/googleapis/java-billing/compare/v1.1.12...v1.1.13) (2021-02-16)
+
+
+### Documentation
+
+* generate sample code in the Java microgenerator ([#320](https://www.github.com/googleapis/java-billing/issues/320)) ([44d60d6](https://www.github.com/googleapis/java-billing/commit/44d60d606a0e39f29f9e8baba0cb7cc1a70a4e77))
+
 ### [1.1.12](https://www.github.com/googleapis/java-billing/compare/v1.1.11...v1.1.12) (2021-01-14)
 
 
